@@ -1,0 +1,24 @@
+body {
+    background-color: black;
+}
+
+#title {
+    font-family: "Lucida Console";
+    color: white;
+    size: 48px;
+}
+h3 {
+    font-family: "Lucida Console";
+    color: white;
+}
+a {
+    text-decoration: none;
+    color: blue;
+    font-family: "Lucida Console";
+    size: 8px;
+}
+.plaintext {
+    font-family: "Lucida Console";
+    size: 8px;
+    color: white;
+}
