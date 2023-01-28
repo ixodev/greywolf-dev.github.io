@@ -22,3 +22,13 @@ a {
     size: 8px;
     color: white;
 }
+.mainmenubuttons {
+    background-color: blue;
+    color: white;
+    border-radius: 10px;
+    font-family: "Lucida Console";
+    font-size: 28px;
+}
+.menu {
+    background-color: red;
+}
